@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "714403527658",
+    "project_id": "krishimitra-302d6",
+    "storage_bucket": "krishimitra-302d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714403527658:android:63ec50468dfa35f390d093",
+        "android_client_info": {
+          "package_name": "com.example.krishi_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBklYeynPcou3LTsDp3Gw36gMisrVppgTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
